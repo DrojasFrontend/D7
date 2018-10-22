@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/oskin-studio.png",
+    "alt": "Oskin Studio NewYork",
+    "title": "O'skin",
+    "type": "eCommerce",
+    "developer": "Frontend Development",
+    "url": "https://oskinstudionyc.com/home"
+  },
+  {
+    "id": 2,
+    "img": "assets/img/sony_hear_on_WirelessNC_colours.png",
+    "alt": "Sony hear on WirelessNC colours",
+    "title": "Sony",
+    "type": "SinglePage",
+    "developer": "Frontend Development",
+    "url": "https://www.sony.com.mx/corporate/MX/hearyourcolors/index.html"
+  },
+  {
+    "id": 3,
+    "img": "assets/img/-publicidad_Barranquilla.png",
+    "alt": "Publicidad Barranquilla",
+    "title": "Barranquilla <br> Publicidad de  ",
+    "type": "LandingPage",
+    "developer": "Frontend Development",
+    "url": "http://publicidaddebarranquilla.com"   
+  },
+  {
+    "id": 4,
+    "img": "assets/img/royal_Ingenieria.png",
+    "alt": "Royal Ingenieria",
+    "title": "Ingenieria <br> Royal  ",
+    "type": "LandingPage",
+    "developer": "Frontend Development"  ,
+    "url": "http://royalingenieria.com" 
+  },
+  {
+    "id": 5,
+    "img": "assets/img/sony_power.png",
+    "alt": "Sony Power",
+    "title": "Sony",
+    "type": "SinglePage",
+    "developer": "Frontend Development",
+    "url": "https://www.sony.cl/corporate/CL/power/"   
+  },
+  {
+    "id": 6,
+    "img": "assets/img/liderazgo_LGBT.jpg",
+    "alt": "Liderazgo LGBT",
+    "title": "LGBT <br> Liderazgos",
+    "type": "LandingPage",
+    "developer": "Frontend Development",
+    "url": "http://liderazgoslgbt.com" 
+  },
+  {
+    "id": 7,
+    "img": "assets/img/c-Elysee.png",
+    "alt": "C-Elysee",
+    "title": "C-Elysee",
+    "type": "LandingPage",
+    "developer": "Frontend Development",
+    "url": "http://conductoresconcriterio.com"  
+  },
+  {
+    "id": 8,
+    "img": "assets/img/cristian-gomez.jpg",
+    "alt": "Cristian Gomez",
+    "title": "Gomez <br> Cristian",
+    "type": "LandingPage",
+    "developer": "Frontend Development",
+    "url": "http://cristiangomezr.com/"  
+  }
+]
+
+
+
+

@@ -1,0 +1,52 @@
+header {
+  padding: 40px 0;
+
+  .header {
+    display: flex;
+  }
+
+  .header__menu {
+    width: 96%;
+    nav {
+      height: 100%;
+    }
+    ul {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      padding-right: 100.88px;
+      height: 100%;
+      li {
+        list-style: none;
+        padding: 0 25px;
+      }
+      a {
+        color: $color__black;
+      }
+    }
+  }
+
+  .logo {
+    position: relative;
+    display: inline-block;
+    width: 60.88px;
+    padding: 5px 10px 4px 11px;
+    background-color: $color__black;
+    
+    span {
+      display: inline-block;
+    & + span {
+      position: absolute;
+      top: 4px;
+      left: 27px;
+      transform: matrix(-1.254,0,0,0.979,0,0);
+    }
+    }
+    h1 {
+      font-family: $logo__letter;
+      margin: 0;
+      color: $color__white;
+    }
+  }
+}
