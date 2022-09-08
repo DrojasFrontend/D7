@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "img": "assets/img/oskin-studio.png",
-    "alt": "Oskin Studio NewYork",
-    "title": "O'skin",
-    "type": "eCommerce",
+    "img": "assets/img/tlc.png",
+    "alt": "tlc-md",
+    "title": "TLC MD",
+    "type": "Wordpress",
     "developer": "Frontend Development",
-    "url": "https://oskinstudionyc.com/home"
+    "url": "https://www.tlc-md.org/"
   },
   {
     "id": 2,
-    "img": "assets/img/sony_hear_on_WirelessNC_colours.png",
-    "alt": "Sony hear on WirelessNC colours",
-    "title": "Sony",
-    "type": "SinglePage",
+    "img": "assets/img/legaliza.png",
+    "alt": "Legalizadigital",
+    "title": "legalizadigital",
+    "type": "Wordpress",
     "developer": "Frontend Development",
-    "url": "https://www.sony.com.mx/corporate/MX/hearyourcolors/index.html"
+    "url": "http://legalizadigital.co/"
   },
   {
     "id": 3,
-    "img": "assets/img/-publicidad_Barranquilla.png",
-    "alt": "Publicidad Barranquilla",
-    "title": "Barranquilla <br> Publicidad de  ",
-    "type": "LandingPage",
+    "img": "assets/img/coop.jpeg",
+    "alt": "coop",
+    "title": "Coop",
+    "type": "Shopify",
     "developer": "Frontend Development",
-    "url": "http://publicidaddebarranquilla.com"   
+    "url": "https://coop-development-clone.myshopify.com/"   
   },
   {
     "id": 4,
     "img": "assets/img/royal_Ingenieria.png",
     "alt": "Royal Ingenieria",
     "title": "Ingenieria <br> Royal  ",
-    "type": "LandingPage",
+    "type": "Wordpress",
     "developer": "Frontend Development"  ,
     "url": "http://royalingenieria.com" 
   },
@@ -49,18 +49,18 @@
     "img": "assets/img/liderazgo_LGBT.jpg",
     "alt": "Liderazgo LGBT",
     "title": "LGBT <br> Liderazgos",
-    "type": "LandingPage",
+    "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "http://liderazgoslgbt.com" 
   },
   {
     "id": 7,
-    "img": "assets/img/c-Elysee.png",
-    "alt": "C-Elysee",
-    "title": "C-Elysee",
-    "type": "LandingPage",
+    "img": "assets/img/claudia-dog",
+    "alt": "claudia",
+    "title": "Claudia",
+    "type": "Wordpress",
     "developer": "Frontend Development",
-    "url": "http://conductoresconcriterio.com"  
+    "url": "https://claudiacauterucci.com/"  
   },
   {
     "id": 8,
@@ -70,6 +70,15 @@
     "type": "LandingPage",
     "developer": "Frontend Development",
     "url": "http://cristiangomezr.com/"  
+  },
+  {
+    "id": 8,
+    "img": "assets/img/gabiandanthonywedding.jpeg",
+    "alt": "Gabi and Anthony",
+    "title": "Gabi and Anthony <br> Wedding",
+    "type": "Wordpress",
+    "developer": "Frontend Development",
+    "url": "https://gabiandanthonywedding.com/"  
   }
 ]
 
