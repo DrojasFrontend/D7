@@ -12,7 +12,7 @@
     "id": 2,
     "img": "assets/img/legaliza.png",
     "alt": "Legalizadigital",
-    "title": "LEGALIZA DIGITAL",
+    "title": "DIGITAL<br>LEGALIZA",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "http://legalizadigital.co/"
@@ -30,7 +30,7 @@
     "id": 4,
     "img": "assets/img/royal_Ingenieria.png",
     "alt": "Royal Ingenieria",
-    "title": "INGENIERIA <br> ROYAL  ",
+    "title": "INGENIERIA<br>ROYAL  ",
     "type": "Wordpress",
     "developer": "Frontend Development"  ,
     "url": "http://royalingenieria.com" 
@@ -48,7 +48,7 @@
     "id": 6,
     "img": "assets/img/liderazgo_LGBT.jpg",
     "alt": "Liderazgo LGBT",
-    "title": "LGBT <br> Liderazgos",
+    "title": "Liderazgos<br>LGBT",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "http://liderazgoslgbt.com" 
@@ -66,7 +66,7 @@
     "id": 8,
     "img": "assets/img/daniandquinn.jpeg",
     "alt": "Dani and Quinn",
-    "title": "QUIM and DANNY",
+    "title": "QUIM and DANNY<br>WEDDING",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "https://daniandquinn.com/"  
@@ -75,7 +75,7 @@
     "id": 9,
     "img": "assets/img/gabiandanthonywedding.jpeg",
     "alt": "Gabi and Anthony",
-    "title": "WEDDING <br> GABI and ANTHONY",
+    "title": "GABI and ANTHONY<br>WEDDING",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "https://gabiandanthonywedding.com/"  
@@ -84,7 +84,7 @@
     "id": 10,
     "img": "assets/img/hero-jorge-estrada-1.png",
     "alt": "Doctor Jorge Estrada",
-    "title": "JORGE ESTRADA <br> DOCTOR",
+    "title": "JORGE ESTRADA<br>DOCTOR",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "https://drjorgeestrada.com/"  
@@ -93,7 +93,7 @@
     "id": 10,
     "img": "assets/img/yareandjuan.jpeg",
     "alt": "yareandjuan",
-    "title": "JUAN AND YARE",
+    "title": "YARE AND JUAN",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "https://yareandjuan.com/"  
