@@ -12,7 +12,7 @@
     "id": 2,
     "img": "assets/img/legaliza.png",
     "alt": "Legalizadigital",
-    "title": "legalizadigital",
+    "title": "LEGALIZA DIGITAL",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "http://legalizadigital.co/"
@@ -21,7 +21,7 @@
     "id": 3,
     "img": "assets/img/coop.jpeg",
     "alt": "coop",
-    "title": "Coop",
+    "title": "COOP",
     "type": "Shopify",
     "developer": "Frontend Development",
     "url": "https://coop-development-clone.myshopify.com/"   
@@ -30,7 +30,7 @@
     "id": 4,
     "img": "assets/img/royal_Ingenieria.png",
     "alt": "Royal Ingenieria",
-    "title": "Ingenieria <br> Royal  ",
+    "title": "INGENIERIA <br> ROYAL  ",
     "type": "Wordpress",
     "developer": "Frontend Development"  ,
     "url": "http://royalingenieria.com" 
@@ -39,7 +39,7 @@
     "id": 5,
     "img": "assets/img/sony_power.png",
     "alt": "Sony Power",
-    "title": "Sony",
+    "title": "SONY",
     "type": "SinglePage",
     "developer": "Frontend Development",
     "url": "https://www.sony.cl/corporate/CL/power/"   
@@ -55,30 +55,48 @@
   },
   {
     "id": 7,
-    "img": "assets/img/claudia-dog",
+    "img": "assets/img/claudia-dog.png",
     "alt": "claudia",
-    "title": "Claudia",
+    "title": "CLAUDIA",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "https://claudiacauterucci.com/"  
   },
   {
     "id": 8,
-    "img": "assets/img/cristian-gomez.jpg",
-    "alt": "Cristian Gomez",
-    "title": "Gomez <br> Cristian",
-    "type": "LandingPage",
+    "img": "assets/img/daniandquinn.jpeg",
+    "alt": "Dani and Quinn",
+    "title": "QUIM and DANNY",
+    "type": "Wordpress",
     "developer": "Frontend Development",
-    "url": "http://cristiangomezr.com/"  
+    "url": "https://daniandquinn.com/"  
   },
   {
-    "id": 8,
+    "id": 9,
     "img": "assets/img/gabiandanthonywedding.jpeg",
     "alt": "Gabi and Anthony",
-    "title": "Gabi and Anthony <br> Wedding",
+    "title": "WEDDING <br> GABI and ANTHONY",
     "type": "Wordpress",
     "developer": "Frontend Development",
     "url": "https://gabiandanthonywedding.com/"  
+  },
+  {
+    "id": 10,
+    "img": "assets/img/hero-jorge-estrada-1.png",
+    "alt": "Doctor Jorge Estrada",
+    "title": "JORGE ESTRADA <br> DOCTOR",
+    "type": "Wordpress",
+    "developer": "Frontend Development",
+    "url": "https://drjorgeestrada.com/"  
+  },
+  {
+    "id": 10,
+    "img": "assets/img/yareandjuan.jpeg",
+    "alt": "yareandjuan",
+    "title": "JUAN AND YARE",
+    "type": "Wordpress",
+    "developer": "Frontend Development",
+    "url": "https://yareandjuan.com/"  
   }
 ]
 
